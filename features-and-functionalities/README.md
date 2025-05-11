@@ -2,6 +2,8 @@
 🔐 User Management
 User Registration: Allow users to sign up as guests or hosts.
 
+x 
+
 Authentication: Implement secure login using JWT (JSON Web Tokens).
 
 OAuth Integration: Support third-party logins (e.g., Google, Facebook).
